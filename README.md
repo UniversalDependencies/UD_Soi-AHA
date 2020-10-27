@@ -34,7 +34,7 @@ UPOS: manual native
 XPOS: manual native
 Features: manual native
 Relations: manual native
-Contributors: Mojiry, Amirhossein
+Contributors: Mojiri Foroushani, AmirHossein; Aghaei, Hamid; Ahmadi, Amir
 Contributing: elsewhere
 Contact: amojiry@gmail.com
 ===============================================================================
