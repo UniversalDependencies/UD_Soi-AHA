@@ -28,7 +28,7 @@
 Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: Genre: grammar-examples spoken
+Genre: grammar-examples spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
