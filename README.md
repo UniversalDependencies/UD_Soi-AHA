@@ -11,8 +11,8 @@ AHA is a small group, tries to analyze Iranian language and find their similarit
 
 # Acknowledgments
 
-Theses sentences were prepared with the help of Delijan people.
-First, we used the sentences suggested by APLL (Academy of Persian Language and Literature) to collect Iranian languages. Also, Ms. Hanieh Mashayekhi sincerely helped us to translate the sentences.
+Theses sentences were prepared with the help of Delijan people. Also, Ms. Hanieh Mashayekhi sincerely helped us to translate the sentences.
+First, we used the sentences suggested by APLL (Academy of Persian Language and Literature) to collect Iranian languages. 
 This project is a research project by AmirHossein, Hamid and Amir (AHA).
 
 *You can use this structure to refer to this project:*
