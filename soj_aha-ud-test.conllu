@@ -1,6 +1,6 @@
 # sent_id = IN-1
 # text = عبدولو صبا اشی.
-# text_fa = 
+# text_fa = عبدالله فردا صبح می‌رود.
 1	عبدولو	عبدولو	NOUN	N_SING	Number=Sing	3	nsubj	_	_
 2	صبا	صب	NOUN	N_SING	Number=Sing	3	nmod	_	_
 3	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
@@ -8,7 +8,7 @@
 
 # sent_id = IN-2
 # text = مِن دارُن لباس اَپوشُن.
-# text_fa = 
+# text_fa = من دارم لباسم را می‌پوشم.
 1	مِن	مِن	PRON	PRO	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	دارُن	دار	AUX	V_AUX	Number=Sing|Person=1|Tense=Fut	4	aux	_	_
 3	لباس	لباس	NOUN	N_Sing	Number=Sing	4	obj	_	_
@@ -17,7 +17,7 @@
 
 # sent_id = IN-3
 # text = اَجی لیوان اُوِ اَ مِن دِ.
-# text_fa = 
+# text_fa = یک لیوان آب به من بده.
 1	اَجی	اَجی	NUM	NUM	NumType=Card	2	nummod	_	_
 2	لیوان	لیوان	NOUN	N_Sing	Number=Sing	6	obj	_	_
 3	اُوِ	اُوِ	NOUN	N_Sing	Number=Sing	2	flat	_	_
@@ -28,8 +28,8 @@
 
 # sent_id = IN-4
 # text = بِرا م بِ مدرسه ناشی.
-# text_fa = 
-1	بِرا	بِرا	NOUN	N_Sing	Number=Sing	5	nsubj	_	SpaceAfter=No
+# text_fa = برادرم به مدرسه نمی‌رود.
+1	بِرا	بِرا	NOUN	N_Sing	Number=Sing	5	nsubj	_	_
 2	م	م	PRON	PRO	Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	_
 3	بِ	بِ	ADP	P	_	5	case	_	_
 4	مدرسه	مدرسه	NOUN	N_Sing	Number=Sing	5	obl	_	_
@@ -38,7 +38,7 @@
 
 # sent_id = IN-5
 # text = تا الُن دِ بار بِ مِشَد بَشتُن.
-# text_fa = 
+# text_fa = تا حالا به مشهد رفته‌ام.
 1	تا	تا	ADP	P	_	2	case	_	_
 2	الُن	الُن	ADV	ADV_TIME	Case=Tem	7	advcl	_	_
 3	دِ	دِ	NUM	NUM	NumType=Card	4	nummod	_	_
@@ -54,14 +54,14 @@
 1	هِزِ	هزِ	ADV	ADV_TIME	Case=Tem	6	advmod	_	_
 2	ئی	ئی	NUM	NUM	NumType=Card	3	nummod	_	_
 3	کیلو	کیلو	NOUN	N_Sing	Number=Sing	4	nmod:poss	_	_
-4	برنج	برنج	NOUN	N_Sing	Number=Sing	6	obj	_	SpaceAfter=No
+4	برنج	برنج	NOUN	N_Sing	Number=Sing	6	obj	_	_
 5	ِم	مِن	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	هاگِت	گِت	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	DELM	_	6	punct	_	_
 
 # sent_id = IN-7
 # text = واجَن علی رویی دِ سات کار اَکَرَ.
-# text_fa = می‌گن علی روزی ده ساعت کار می‌کنه.
+# text_fa = می‌گویند علی روزی ده ساعت کار می‌کند.
 1	واجَن	واج	VERB	V_PP	Number=Plur|Person=3|VerbForm=Part	0	root	_	_
 2	علی	علی	NOUN	N_Sing	Number=Sing	4	nsubj	_	_
 3	رویی	رو	ADV	N_Sing	Number=Sing	7	advmod	_	_
@@ -73,14 +73,14 @@
 
 # sent_id = IN-9
 # text = اِ دِ سال پیش تا الُن اُن ِم نَدییَ.
-# text_fa = 
+# text_fa = از ده سال پیش تا الان او را ندیده‌ام.
 1	اِ	اِ	ADP	P	_	2	case	_	_
 2	دِ	دِ	NUM	NUM	NumType=Card	9	nummod	_	_
 3	سال	سال	NOUN	N_Sing	Number=Sing	9	obl	_	_
 4	پیش	پیش	NOUN	N_Sing	Number=Sing	3	nmod:poss	_	_
 5	تا	تا	ADP	P	_	6	case	_	_
 6	الُن	الُن	ADV	ADV_TIME	Case=Tem	9	advcl	_	_
-7	اُن	اُن	PRON	PRO	Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+7	اُن	اُن	PRON	PRO	Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 8	ِم	مِن	PRON	PRO	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	نَدییَ	نُن	VERB	V_PRS	Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	DELM	_	9	punct	_	_
