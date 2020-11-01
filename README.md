@@ -5,7 +5,7 @@ The AHA Soi Treebank is a small treebank for contemporary Soi. Its corpus is col
 
 # Introduction
 
-Soi treebank consist of 10 sentences of this stage. We are trying to make this corpus bigger day by day.
+Soi treebank consist of 8 sentences of this stage. We are trying to make this corpus bigger day by day.
 AHA is a small group, tries to analyze Iranian language and find their similarities and differences.
 
 
