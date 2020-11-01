@@ -1,23 +1,26 @@
-# sent_id = IN-1
+# sent_id = GRAMMAR_RAJI_1
 # text = عبدولو صبا اشی.
 # text_fa = عبدالله فردا صبح می‌رود.
+# text_en = Abdollah is living tomorrow.
 1	عبدولو	عبدولو	NOUN	N_SING	Number=Sing	3	nsubj	_	_
 2	صبا	صب	NOUN	N_SING	Number=Sing	3	nmod	_	_
 3	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# sent_id = IN-2
+# sent_id = GRAMMAR_RAJI_2
 # text = مِن دارُن لباس اَپوشُن.
 # text_fa = من دارم لباسم را می‌پوشم.
+# text_en = I am getting dressed.
 1	مِن	مِن	PRON	PRO	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	دارُن	دار	AUX	V_AUX	Number=Sing|Person=1|Tense=Fut	4	aux	_	_
 3	لباس	لباس	NOUN	N_Sing	Number=Sing	4	obj	_	_
 4	اَپوشُن	اپوش	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# sent_id = IN-3
+# sent_id = GRAMMAR_RAJI_3
 # text = اَجی لیوان اُوِ اَ مِن دِ.
 # text_fa = یک لیوان آب به من بده.
+# text_en = Give me a glass of water.
 1	اَجی	اَجی	NUM	NUM	NumType=Card	2	nummod	_	_
 2	لیوان	لیوان	NOUN	N_Sing	Number=Sing	6	obj	_	_
 3	اُوِ	اُوِ	NOUN	N_Sing	Number=Sing	2	flat	_	_
@@ -26,9 +29,10 @@
 6	دِ	د	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# sent_id = IN-4
+# sent_id = GRAMMAR_RAJI_4
 # text = بِرا م بِ مدرسه ناشی.
 # text_fa = برادرم به مدرسه نمی‌رود.
+# text_en = My brother does not go to school.
 1	بِرا	بِرا	NOUN	N_Sing	Number=Sing	5	nsubj	_	_
 2	م	م	PRON	PRO	Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	_
 3	بِ	بِ	ADP	P	_	5	case	_	_
@@ -36,9 +40,10 @@
 5	ناشی	ش	VERB	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# sent_id = IN-5
+# sent_id = GRAMMAR_RAJI_5
 # text = تا الُن دِ بار بِ مِشَد بَشتُن.
-# text_fa = تا حالا به مشهد رفته‌ام.
+# text_fa = تا حالا ده بار به مشهد رفته‌ام.
+# text_en = I've travelled to Mashhad ten times.
 1	تا	تا	ADP	P	_	2	case	_	_
 2	الُن	الُن	ADV	ADV_TIME	Case=Tem	7	advcl	_	_
 3	دِ	دِ	NUM	NUM	NumType=Card	4	nummod	_	_
@@ -48,9 +53,10 @@
 7	بَشتُن	ش	VERB	V_PP	Number=Sing|Person=1|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# sent_id = IN-6
+# sent_id = GRAMMAR_RAJI_6
 # text = هِزِ ئی کیلو برنج ِم هاگِت.
 # text_fa = دیروز یک کیلو برنج گرفتم.
+# text_en = I bought one kilo of rice yesterday.
 1	هِزِ	هزِ	ADV	ADV_TIME	Case=Tem	6	advmod	_	_
 2	ئی	ئی	NUM	NUM	NumType=Card	3	nummod	_	_
 3	کیلو	کیلو	NOUN	N_Sing	Number=Sing	4	nmod:poss	_	_
@@ -59,9 +65,10 @@
 6	هاگِت	گِت	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# sent_id = IN-7
+# sent_id = GRAMMAR_RAJI_7
 # text = واجَن علی رویی دِ سات کار اَکَرَ.
 # text_fa = می‌گویند علی روزی ده ساعت کار می‌کند.
+# text_en = It is said that Ali works ten hours a day.
 1	واجَن	واج	VERB	V_PP	Number=Plur|Person=3|VerbForm=Part	0	root	_	_
 2	علی	علی	NOUN	N_Sing	Number=Sing	4	nsubj	_	_
 3	رویی	رو	ADV	N_Sing	Number=Sing	7	advmod	_	_
@@ -71,9 +78,10 @@
 7	اَکَرَ	کَر	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	1	ccomp	_	SpaceAfter=No
 8	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# sent_id = IN-9
+# sent_id = GRAMMAR_RAJI_9
 # text = اِ دِ سال پیش تا الُن اُن ِم نَدییَ.
 # text_fa = از ده سال پیش تا الان او را ندیده‌ام.
+# text_en = I haven't seen him for ten years.
 1	اِ	اِ	ADP	P	_	2	case	_	_
 2	دِ	دِ	NUM	NUM	NumType=Card	9	nummod	_	_
 3	سال	سال	NOUN	N_Sing	Number=Sing	9	obl	_	_
