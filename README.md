@@ -15,9 +15,7 @@ Theses sentences were prepared with the help of Delijan people.
 First, we used the sentences suggested by APLL (Academy of Persian Language and Literature) to collect Iranian languages.
 This project is a research project by AmirHossein, Hamid and Amir (AHA).
 
-
-## References
-
+*You can use this structure to refer to this project:*
 * Mojiri Foroushani, AmirHossein; Aghaei, Hamid; Ahmadi, Amir (2020): "AHA Soi dependency treebank", Universal dependencies (universaldependencies.org)
 
 
